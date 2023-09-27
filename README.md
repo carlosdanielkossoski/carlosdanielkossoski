@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @carlosdanielkossoski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Boas vindas ao meu perfil 🥇👊
 
-<!---
-carlosdanielkossoski/carlosdanielkossoski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Carlos Daniel 🍺
+
+Sou estudante 
+
+Estudo no Alura 
+
+![](https://media.tenor.com/UpTzOIi2z-sAAAAM/cat-the-cat.gif)
